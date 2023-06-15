@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/miros/ code/build",
-  "command": "/usr/bin/g++   -g -o CMakeFiles/cmaketry.dir/main.cpp.o -c \"/home/miros/ code/main.cpp\"",
-  "file": "/home/miros/ code/main.cpp",
-  "output": "CMakeFiles/cmaketry.dir/main.cpp.o"
-}
-]
